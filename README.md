@@ -11,7 +11,7 @@ An Angular Single Page Application that lets the user create recipes with ingred
       * npm install
       * npm run start
 
-## Uses the following features on Angular:
+## Uses the following features in Angular:
 * Built with the angular CLI
 * Components, Services & Pipes
 * NgRx / Redux
