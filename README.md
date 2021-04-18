@@ -20,4 +20,3 @@ An Angular Single Page Application that lets the user create recipes with ingred
 * Lazy Loading
 * Firebase as a backend for data storage
 * Firebase for hosting site
-* 
