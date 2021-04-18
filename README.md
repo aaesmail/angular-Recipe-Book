@@ -14,5 +14,10 @@ An Angular Single Page Application that lets the user create recipes with ingred
 ## Uses the following features in Angular:
 * Built with the angular CLI
 * Components, Services & Pipes
+* Http service provided by angular
+* Forms Modules
 * NgRx / Redux
 * Lazy Loading
+* Firebase as a backend for data storage
+* Firebase for hosting site
+* 
