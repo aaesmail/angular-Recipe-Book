@@ -13,7 +13,7 @@ An Angular Single Page Application that lets the user create recipes with ingred
 
 ## Uses the following features in Angular:
 * Built with the angular CLI
-* Components, Services & Pipes
+* Components, directives, Services & Pipes
 * Http service provided by angular
 * Forms Modules
 * NgRx / Redux
